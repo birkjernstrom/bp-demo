@@ -2,4 +2,4 @@
 
 Minor change
 
-testing once
+testing once. foo
